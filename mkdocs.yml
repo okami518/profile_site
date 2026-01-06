@@ -17,6 +17,7 @@ theme:
 plugins:
   - search
   - i18n:
+      docs_structure: folder
       languages:
         - locale: zh
           name: 中文
@@ -37,23 +38,23 @@ plugins:
           name: English
           build: true
           nav:
-            - About: en/index.md
+            - About: index.md
             - Resume:
-                - Education: en/resume/education.md
-                - Experience: en/resume/experience.md
-                - Awards: en/resume/awards.md
+                - Education: resume/education.md
+                - Experience: resume/experience.md
+                - Awards: resume/awards.md
             - Portfolio:
-                - Projects: en/portfolio/projects.md
-                - Publications: en/portfolio/publications.md
-            - Contact: en/contact.md
+                - Projects: portfolio/projects.md
+                - Publications: portfolio/publications.md
+            - Contact: contact.md
 
 extra:
   alternate:
     - name: 中文
-      link: /
+      link: /profile_site/
       lang: zh
     - name: English
-      link: /en/
+      link: /profile_site/en/
       lang: en
 
 markdown_extensions:
