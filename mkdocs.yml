@@ -1,0 +1,69 @@
+site_name: Profile
+site_url: https://okami518.github.io/profile_site/
+repo_url: https://github.com/okami518/profile_site
+repo_name: okami518/profile_site
+
+theme:
+  name: material
+  language: zh-TW
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - i18n:
+      languages:
+        - locale: zh
+          name: 中文
+          default: true
+          build: true
+          nav:
+            - 關於我: index.md
+            - 履歷:
+                - 學歷: resume/education.md
+                - 經歷: resume/experience.md
+                - 獎項: resume/awards.md
+            - 作品集:
+                - 專案: portfolio/projects.md
+                - 發表: portfolio/publications.md
+            - 聯絡: contact.md
+
+        - locale: en
+          name: English
+          build: true
+          nav:
+            - About: en/index.md
+            - Resume:
+                - Education: en/resume/education.md
+                - Experience: en/resume/experience.md
+                - Awards: en/resume/awards.md
+            - Portfolio:
+                - Projects: en/portfolio/projects.md
+                - Publications: en/portfolio/publications.md
+            - Contact: en/contact.md
+
+extra:
+  alternate:
+    - name: 中文
+      link: /
+      lang: zh
+    - name: English
+      link: /en/
+      lang: en
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true

@@ -1,0 +1,9 @@
+/* Material cards spacing fine-tune for portfolio grids */
+.md-typeset .grid.cards {
+  gap: 0.9rem;
+}
+
+/* Slightly tighter nav title spacing */
+.md-nav__title {
+  letter-spacing: 0.2px;
+}
