@@ -2,16 +2,6 @@
 
 ---
 
-## Boston Housing Price Prediction (Kaggle Competition)
-- **Type**: Regression / Machine Learning
-- **Description**: Predict median house prices using the Boston Housing dataset as part of a course Kaggle competition.
-- **Method**: Ensemble regression with Ridge Regression, SVR, and XGBoost using weighted voting.
-- **Key Point**: Manual train/validation split with RMSE-based model selection.
-- **Tech Stack**: Python, pandas, scikit-learn, xgboost
-- **GitHub**：https://github.com/okami518/Boston-Housing-Competition
-
----
-
 ## Medical Examination ETL Pipeline
 - **Type**: Data Engineering
 - **Description**: End-to-end pipeline that transforms semi-structured JSON medical examination data into clean, structured outputs.
@@ -19,6 +9,16 @@
 - **Extension**: Optional LLM integration for structured-to-text summarization.
 - **Tech Stack**: Python, pandas, FastAPI, MongoDB (pymongo), LLM API (optional)
 - **GitHub**：https://github.com/okami518/medical_examination_ETL
+
+---
+
+## Boston Housing Price Prediction (Kaggle Competition)
+- **Type**: Regression / Machine Learning
+- **Description**: Predict median house prices using the Boston Housing dataset as part of a course Kaggle competition.
+- **Method**: Ensemble regression with Ridge Regression, SVR, and XGBoost using weighted voting.
+- **Key Point**: Manual train/validation split with RMSE-based model selection.
+- **Tech Stack**: Python, pandas, scikit-learn, xgboost
+- **GitHub**：https://github.com/okami518/Boston-Housing-Competition
 
 ---
 
