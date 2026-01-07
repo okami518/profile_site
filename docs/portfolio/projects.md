@@ -22,7 +22,7 @@
 
 ---
 
-## 公共工程金質獎建築類廠商清單產生器
+## Public Construction Award Contractor List Generator
 - **類型**：文件自動化 / 資料處理
 - **內容**：解析公共工程金質獎得獎名單 PDF，自動篩選建築類優良營造廠
 - **輸出**：產生 `.txt` 清單，支援低碳與綠建築評分作業
