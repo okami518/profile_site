@@ -42,8 +42,8 @@ plugins:
                 - Education: resume/education.md
                 - Experience: resume/experience.md
             - Portfolio:
-                - Projects: portfolio/projects.md
-                - ARCH_Portfolio: portfolio/arch_portfolio.md
+                - Projects: en/portfolio/projects.md
+                - ARCH_Portfolio: en/portfolio/arch_portfolio.md
             - Contact: contact.md
 
 extra:
