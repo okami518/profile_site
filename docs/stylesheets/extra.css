@@ -1,9 +1,13 @@
-/* Material cards spacing fine-tune for portfolio grids */
-.md-typeset .grid.cards {
-  gap: 0.9rem;
+/* === Restore nested list indentation === */
+.md-typeset ul,
+.md-typeset ol {
+  padding-left: 1.25em;
+  list-style-position: outside;
 }
 
-/* Slightly tighter nav title spacing */
-.md-nav__title {
-  letter-spacing: 0.2px;
+.md-typeset ul ul,
+.md-typeset ol ol,
+.md-typeset ul ol,
+.md-typeset ol ul {
+  margin-left: 1.25em;
 }
