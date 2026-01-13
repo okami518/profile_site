@@ -14,17 +14,16 @@
 - 擅長資料處理、ETL 流程設計與API設計
 
 ## 技能
-
 - **GIS軟體**
-  - QGIS
+    - QGIS
 - **程式語言 / 資料庫**
-  - Python
-  - Pandas
-  - NumPy
-  - SQL
+    - Python
+    - Pandas
+    - NumPy
+    - SQL
 - **ML / DL**
-  - scikit-learn
-  - PyTorch
+    - scikit-learn
+    - PyTorch
 
 ## 快速連結
 - [作品集](portfolio/projects.md)
