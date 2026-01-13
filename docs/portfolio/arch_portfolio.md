@@ -4,7 +4,7 @@
 
 ## 作品集
 - **類型**：大學時期建築作品集  
-- **連結**：https://reurl.cc/ORogv7
+- **連結**：<a href="https://reurl.cc/ORogv7" target="_blank" rel="noopener">
 
 <img
   src="/profile_site/assets/images/1.jpg"
@@ -17,8 +17,7 @@
 ## 論文
 
 - **類型**：碩士論文  
-- **連結**：https://reurl.cc/R9ogye
-
+- **連結**：<a href="https://reurl.cc/R9ogye" target="_blank" rel="noopener">
 <img
   src="/profile_site/assets/images/A1_BOARD.jpg"
   alt="碩士論文"
