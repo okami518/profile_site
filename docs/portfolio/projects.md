@@ -1,8 +1,8 @@
-# Projects
+# 程式設計專案
 
 ---
 
-## Medical Examination ETL Pipeline
+## 醫檢資料 ETL 流程
 - **類型**：資料工程（Data Engineering）
 - **內容**：將半結構化 JSON 醫檢資料轉換為乾淨、結構化的資料與階層式文字輸出
 - **流程**：資料展開 → 清洗與正規化 → 群組與層級重組 → 輸出
@@ -12,7 +12,7 @@
 
 ---
 
-## Boston Housing Price Prediction (Kaggle Competition)
+## 波士頓房價預測 (Kaggle 競賽)
 - **類型**：回歸問題（Regression）
 - **內容**：以 Boston Housing 資料集預測房價中位數（medv），並參與課程 Kaggle 競賽
 - **方法**：結合 Ridge Regression、SVR 與 XGBoost，透過加權 voting 進行集成
@@ -22,7 +22,7 @@
 
 ---
 
-## Public Construction Award Contractor List Generator
+## 公共工程金質獎建築類廠商清單產生器
 - **類型**：文件自動化 / 資料處理
 - **內容**：解析公共工程金質獎得獎名單 PDF，自動篩選建築類優良營造廠
 - **輸出**：產生 `.txt` 清單，支援低碳與綠建築評分作業

@@ -29,7 +29,8 @@ plugins:
                 - 學歷: resume/education.md
                 - 經歷: resume/experience.md
             - 作品集:
-                - 專案: portfolio/projects.md
+                - 程式設計專案: portfolio/projects.md
+                - 都市分析專案: portfolio/urban_analysis.md
                 - 建築作品: portfolio/arch_portfolio.md
             - 聯絡: contact.md
 
@@ -42,7 +43,8 @@ plugins:
                 - Education: resume/education.md
                 - Experience: resume/experience.md
             - Portfolio:
-                - Projects: en/portfolio/projects.md
+                - Programming Projects: en/portfolio/projects.md
+                - Urban Analysis Projects: en/portfolio/urban_analysis.md
                 - ARCH_Portfolio: en/portfolio/arch_portfolio.md
             - Contact: contact.md
 
