@@ -14,5 +14,5 @@ The raster result was clipped by air quality management zones to focus on meanin
 - **Tools**：QGIS
 - **Data Source**：https://data.moenv.gov.tw/dataset
 
-![Taiwan Air Quality Spatial Interpolation](/profile_site/assets/images/taiwan_aqi_idw_2022.png)
+![Taiwan Air Quality Spatial Interpolation](/profile_site/assets/images/taiwan_aqi_idw.png)
 ---

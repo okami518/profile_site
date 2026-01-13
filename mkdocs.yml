@@ -41,7 +41,7 @@ plugins:
             - About: index.md
             - Resume:
                 - Education: resume/education.md
-                - Experience: resume/experience.md
+                - Work Experience: resume/experience.md
             - Portfolio:
                 - Programming Projects: en/portfolio/projects.md
                 - Urban Analysis Projects: en/portfolio/urban_analysis.md

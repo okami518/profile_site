@@ -14,5 +14,5 @@
 - **工具**：QGIS
 - **圖資來源**：https://data.moenv.gov.tw/dataset
 
-![Taiwan Air Quality Spatial Interpolation](/profile_site/assets/images/taiwan_aqi_idw_2022.png)
+![Taiwan Air Quality Spatial Interpolation](/profile_site/assets/images/taiwan_aqi_idw.png)
 ---
