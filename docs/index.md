@@ -16,13 +16,11 @@
 ## 技能
 - **GIS軟體**
   - QGIS
-
 - **程式語言 / 資料庫**
   - Python
   - Pandas
   - NumPy
   - SQL
-
 - **ML / DL**
   - scikit-learn
   - PyTorch
