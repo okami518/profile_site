@@ -32,7 +32,7 @@
 
 ---
 
-## stanCode Python Practice Projects
+## stanCode Python 專案
 - **類型**：課程專案 / 基礎能力訓練
 - **內容**：涵蓋 Python 基礎語法、資料結構、OOP 與簡易資料視覺化
 - **實作**：遊戲（Breakout）、資料視覺化、字串與影像處理、小型演算法題

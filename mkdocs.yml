@@ -25,9 +25,9 @@ plugins:
           build: true
           nav:
             - 關於我: index.md
-            - 履歷:
+            - 經歷:
                 - 學歷: resume/education.md
-                - 經歷: resume/experience.md
+                - 工作經歷: resume/experience.md
             - 作品集:
                 - 程式設計專案: portfolio/projects.md
                 - 都市分析專案: portfolio/urban_analysis.md

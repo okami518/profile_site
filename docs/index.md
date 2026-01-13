@@ -27,5 +27,5 @@
 
 ## 快速連結
 - [作品集](portfolio/projects.md)
-- [工作經歷](resume/experience.md)
+- [經歷](resume/experience.md)
 - [聯絡方式](contact.md)
