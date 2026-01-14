@@ -45,7 +45,7 @@ plugins:
             - Portfolio:
                 - Programming Projects: en/portfolio/projects.md
                 - Urban Analysis Projects: en/portfolio/urban_analysis.md
-                - ARCH_Portfolio: en/portfolio/arch_portfolio.md
+                - Architecture Portfolio: en/portfolio/arch_portfolio.md
             - Contact: contact.md
 
 extra:
