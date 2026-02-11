@@ -2,10 +2,14 @@
 **HSIEH, CHIA-KANG**
 
 ## 關於我
-具備建築、都市相關背景與程式設計的知識與應用能力。我熟悉Python的語法及概念(OOP, Data Structure, Time Complexity等)，並且對於 ML / DL 的模型理論及運作原理都有一定程度的理解(RL, CNN, RNN, Transformer等)。
+我具備建築與都市相關背景，並結合程式設計（programming）的知識與實務應用能力。過去曾於綠建築公司擔任專案相關工作，協助客戶取得綠建築（Green Building）及低碳（Low Carbon）認證，並負責方案建議與報告書製作。
+
+在技術能力方面，我能快速理解施工圖等建築圖面，並熟悉綠建築與低碳相關規範與法規。此外，我也熟悉 BIM（Building Information Modeling）、3D 建模（3D Modeling）以及電腦程式語言，能在建築專業與數位工具之間進行整合應用。
+<!--具備建築、都市相關背景與程式設計的知識與應用能力。我熟悉Python的語法及概念(OOP, Data Structure, Time Complexity等)，並且對於 ML / DL 的模型理論及運作原理都有一定程度的理解(RL, CNN, RNN, Transformer等)。
 目前，也利用這些知識親自實作過許多不同大小的專案，並且替公司客戶的資料庫資料進行 ETL 跟語意轉換以及軟體開發的業務。
 在團隊中，因為我具有跨領域的背景，因此能以非傳統資訊訓練的思維及溝通方式，幫助資訊團隊與其他合作專案部門溝通及協調問題，並將複雜資料轉換為可理解、可決策的形式。
-在個人能力上，具備資料處理、ETL 流程設計、API設計的經驗，並且擁有 GIS 分析、空間資料處理與資料系統整合的經驗。
+在個人能力上，具備資料處理、ETL 流程設計、API設計的經驗，並且擁有 GIS 分析、空間資料處理與資料系統整合的經驗。-->
+
 
 ## 重點摘要
 - 建築、都市與程式設計跨領域背景  
@@ -14,6 +18,11 @@
 - 擅長資料處理、ETL 流程設計與API設計
 
 ## 技能
+- **建築軟體**
+    - AutoCad
+    - Revit
+    - SketchUP
+    - Rhino
 - **GIS軟體**
     - QGIS
 - **程式語言 / 資料庫**
@@ -21,10 +30,10 @@
     - Pandas
     - NumPy
     - SQL
-- **ML / DL**
+<!--- **ML / DL**
     - scikit-learn
     - PyTorch
-
+-->
 ## 快速連結
 - [作品集](portfolio/projects.md)
 - [經歷](resume/experience.md)
