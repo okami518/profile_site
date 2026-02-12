@@ -30,10 +30,10 @@
     - Pandas
     - NumPy
     - SQL
-<!--- **ML / DL**
+- **ML / DL**
     - scikit-learn
     - PyTorch
--->
+    
 ## 快速連結
 - [作品集](portfolio/projects.md)
 - [經歷](resume/experience.md)
