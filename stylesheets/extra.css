@@ -1,0 +1,20 @@
+/* === Restore nested list indentation === */
+.md-typeset ul,
+.md-typeset ol {
+  padding-left: 1.25em;
+  list-style-position: outside;
+}
+
+.md-typeset ul ul,
+.md-typeset ol ol,
+.md-typeset ul ol,
+.md-typeset ol ul {
+  margin-left: 1.25em;
+}
+/* Make nested list bullets visually different */
+.md-typeset ul ul {
+  list-style-type: circle;
+}
+.md-typeset ul ul ul {
+  list-style-type: square;
+}
